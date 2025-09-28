@@ -2,6 +2,10 @@
 
 VideoMind is an interactive web application that creates AI-powered mind maps from video content, helping users navigate and understand video content more efficiently through visual summaries, timestamps, and interactive exploration.
 
+
+![Alt text](after-hide-first-scene-button.png)
+
+
 ## Features
 
 - **Interactive Mind Maps**: Visual representation of video content with clickable nodes
